@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<students>
+    <student id="1">
+        <surname>Razvan</surname>
+        <name>Baboiu</name>
+        <email>razvanb@gmail.com</email>
+        <labTeacher>Gigi</labTeacher>
+        <group>221</group>
+    </student>
+    <student id="2">
+        <surname>Razvan</surname>
+        <name>Baboiu</name>
+        <email>razvanb@gmail.com</email>
+        <labTeacher>Gigi</labTeacher>
+        <group>222</group>
+    </student>
+    <student id="3">
+        <surname>Razvan</surname>
+        <name>Baboiu</name>
+        <email>razvanb@gmail.com</email>
+        <labTeacher>Gigi</labTeacher>
+        <group>221</group>
+    </student>
+        <student id="4">
+            <surname>Razvan</surname>
+            <name>Baboiu</name>
+            <email>razvanb@gmail.com</email>
+            <labTeacher>Gigi</labTeacher>
+            <group>223</group>
+        </student>
+</students>

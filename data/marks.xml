@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<marks>
+    <mark homeworkId="1" studentId="3">
+        <grade>9.75</grade>
+        <date>2019-11-13</date>
+        <teacher>Gigi</teacher>
+    </mark>
+    <mark homeworkId="1" studentId="2">
+        <grade>9.75</grade>
+        <date>2019-11-13</date>
+        <teacher>Gigi</teacher>
+    </mark>
+    <mark homeworkId="3" studentId="1">
+        <grade>9.75</grade>
+        <date>2019-10-13</date>
+        <teacher>Gigi</teacher>
+    </mark>
+    <mark homeworkId="3" studentId="2">
+        <grade>9.75</grade>
+        <date>2019-10-13</date>
+        <teacher>Gigi</teacher>
+    </mark>
+    <mark homeworkId="1" studentId="1">
+        <grade>9.75</grade>
+        <date>2019-11-07</date>
+        <teacher>Gigi</teacher>
+    </mark>
+    <mark homeworkId="2" studentId="2">
+        <grade>9.75</grade>
+        <date>2019-11-13</date>
+        <teacher>Gigi</teacher>
+    </mark>
+</marks>

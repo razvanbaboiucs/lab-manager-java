@@ -1,0 +1,5 @@
+1,Ion,Pop,ionpop@yahoo.com,Gigi,221
+2,Ana,Sal,anasal@gmail.com,Gogu,222
+3,Eros,Tanatos,ert@ubb.com,Gigi,221
+4,Ana,Lo,ana@yahoo.com,Mari,226
+5,Dani,Mocanu,dani@mocanu.com,Danutz,222
